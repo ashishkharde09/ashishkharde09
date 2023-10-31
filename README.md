@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ashishkharde09@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact: I am crazy about **Apple** products
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
