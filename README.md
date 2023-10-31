@@ -2,8 +2,7 @@
 <h3 align="center">Fueling Passion with Java: My Journey as a Fresher Full Stack Developer</h3>
 <img align="right" alt="coding with" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkharde09&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkharde09" /> </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkharde09&show_icons=true&locale=en&layout=compact" alt="ashishkharde09" /></p>
 - 🌱 I’m currently learning **J2EE, Java frameworks such as Spring boot, Hibernate**
 
 - 💬 Ask me about **Core java, SQL, Web technologies(HTML, CSS, JavaScript)**
