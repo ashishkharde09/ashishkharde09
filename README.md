@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **J2EE, Java frameworks such as Spring boot, Hibernate**
 
-- 💬 Ask me about **Core java, SQL, Web technologies(HTML, CSS, JavaScript)**
+- 💬 Ask me about **Core java, SQL, Web technologies(HTML, CSS, JavaScript), etc**
 
 - 📫 How to reach me **ashishkharde09@gmail.com**
 
