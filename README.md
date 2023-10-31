@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkharde09&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkharde09" /> </p>
 
-- 👩🏻‍💻 Pronouns: Hee/Him
+- 😄 Pronouns: He/him
 
 - 🌱 I’m currently learning **J2EE, Java frameworks such as Spring boot, Hibernate**
 
